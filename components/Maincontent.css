@@ -1,0 +1,18 @@
+.banner-img { height: 500px; display: flex; width: 100%; align-items: center; }
+.banner-img .container  { max-width: 950px;  }
+.banner-img h1, .banner-img p { color: #fff; margin: 20px 0px; }
+.banner-img p { color: #fff; }
+.about-form-bg { padding: 40px 0px 60px; }
+.about-form-bg h2 { font-size: 38px; margin: 0px 0px 20px; }
+.about-form-bg p { width: 90%; }
+.contact-form-bg { background: #000; border-radius: 5px; padding: 30px; }
+.contact-form-bg label { color: #fff; margin: 0px 0px 5px; }
+.contact-form-bg .form-control { margin: 0px 0px 20px; }
+.form-control::-webkit-input-placeholder { color:#bdbdbd; }
+.form-control:-moz-placeholder { color:#bdbdbd; opacity:1; }
+.form-control::-moz-placeholder { color:#bdbdbd; opacity:1; }
+.form-control:-ms-input-placeholder { color:#bdbdbd; }
+.filter-form-bg { background: #000; padding: 50px 0px; }
+.filter-form-bg h2 { color: #fff; }
+.tab-btn { margin: 0px 0px 0px 15px; color: #fff; border-radius: 5px; border: 1px solid #edcd1f; background: none; padding: 5px 15px; }
+.tab-btn.active { background: #edcd1f; border: 1px solid #edcd1f; color: #fff; }

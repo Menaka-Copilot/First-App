@@ -1,0 +1,15 @@
+import { useState } from 'react'
+import Header from './components/Header'
+import Maincontent from './components/Maincontent'
+
+
+function App() {
+  return (
+    <>
+      <Header />
+      <Maincontent />
+    </>
+  )
+}
+
+export default App
